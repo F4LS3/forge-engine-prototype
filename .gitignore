@@ -1,3 +1,6 @@
 .vs/
+.idea/
 bin/
 bin-int/
+CMakeLists.txt
+*.cmake
